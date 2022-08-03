@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Alan_Hesaplama/1.0.0": {
+        "runtime": {
+          "Alan_Hesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alan_Hesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

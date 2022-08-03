@@ -1,0 +1,15 @@
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Alan_Hesaplama\bin\Debug\net6.0\Alan_Hesaplama.exe
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Alan_Hesaplama\bin\Debug\net6.0\Alan_Hesaplama.deps.json
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Alan_Hesaplama\bin\Debug\net6.0\Alan_Hesaplama.runtimeconfig.json
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Alan_Hesaplama\bin\Debug\net6.0\Alan_Hesaplama.dll
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Alan_Hesaplama\bin\Debug\net6.0\Alan_Hesaplama.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Alan_Hesaplama\obj\Debug\net6.0\Alan_Hesaplama.csproj.AssemblyReference.cache
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Alan_Hesaplama\obj\Debug\net6.0\Alan_Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Alan_Hesaplama\obj\Debug\net6.0\Alan_Hesaplama.AssemblyInfoInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Alan_Hesaplama\obj\Debug\net6.0\Alan_Hesaplama.AssemblyInfo.cs
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Alan_Hesaplama\obj\Debug\net6.0\Alan_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Alan_Hesaplama\obj\Debug\net6.0\Alan_Hesaplama.dll
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Alan_Hesaplama\obj\Debug\net6.0\refint\Alan_Hesaplama.dll
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Alan_Hesaplama\obj\Debug\net6.0\Alan_Hesaplama.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Alan_Hesaplama\obj\Debug\net6.0\Alan_Hesaplama.genruntimeconfig.cache
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Alan_Hesaplama\obj\Debug\net6.0\ref\Alan_Hesaplama.dll
